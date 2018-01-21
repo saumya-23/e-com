@@ -1,0 +1,23 @@
+
+.inner_right{
+float:left;
+padding: 1% 0 1% 1%;
+width: 87%;
+background:#fff;
+border: 1px solid #ccc;
+box-sizing: border-box;
+}
+.inner_left{
+float:left;
+width:10%;
+
+}
+.outer{
+width:75%;
+margin:1% 2%;
+float:left;
+}
+header{
+font-weight:bold;
+margin-bottom:2%;
+}
