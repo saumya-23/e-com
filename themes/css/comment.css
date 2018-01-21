@@ -1,0 +1,63 @@
+body{
+			font-family:Helvetica,Arial;
+			font-size: 15px;
+			color: #000;
+			}	
+		input[type=text] {
+			width: 100%;
+			padding: 12px 20px;
+			margin: 8px 0;
+			display: inline-block;
+			border: 1px solid #ccc;
+			box-sizing: border-box;
+		}
+		input[type=submit] {
+			background-color:#000;
+			color: white;
+			padding: 14px 20px;
+			margin: 8px 0;
+			border: none;
+			cursor: pointer;
+			width: 100%;
+		}
+		textarea{
+			width: 100%;
+			padding: 12px 0px;
+			margin: 8px 0;
+			display: inline-block;
+			border: 1px solid #ccc;
+			box-sizing: border-box;
+		}
+		.main{
+			width:60%;
+			float:left;
+			margin:0 20%
+		}
+		.head {
+			text-align:center;
+			font-size:300%
+		}
+		.logout{
+		    width:9%;
+			float:right;
+			text-align:right;
+			background-color:#f0f0f0;
+
+		}
+		.post{
+			float:left;
+			width:98%;
+			background:#fff;
+			padding:10px;
+		}
+		.form{
+			width:60%;
+			float:left;
+			margin:2% 0% 0
+		}
+		.inside_form{
+			float:left;
+			width:90%;
+			padding:10px
+		}
+		
